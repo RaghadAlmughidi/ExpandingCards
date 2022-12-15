@@ -22,6 +22,6 @@ JavaScript HTML and CSS
 ## Contact
 
 - linkedin [raghad Almughidi](https://www.linkedin.com/in/raghad-almughidi/)
-- GitHub [@rdmug1421](https://github.com/RaghadAlmughidi)
+- GitHub [@RaghadAlmughidi](https://github.com/RaghadAlmughidi)
 - Twitter [@rd_mug](https://twitter.com/Rd_mug)
 - portfolio[raghad-almughidi](https://www.raghad-almughidi.com/)
